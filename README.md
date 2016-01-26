@@ -1,6 +1,8 @@
 # appc Binary Discovery (abd)
 
-Current design doc is here: https://docs.google.com/document/d/17G4FOroAW0utSIvuHqwM9SIPdkAyJJYqNdgBdrIztu0/edit#
+Working copy of the spec: [abd.md](abd.md)
+
+Historical design doc is here: https://docs.google.com/document/d/17G4FOroAW0utSIvuHqwM9SIPdkAyJJYqNdgBdrIztu0/edit#
 
 ## Usage
 
